@@ -1,0 +1,6 @@
+Things to fix:
+1.) Beavers get stuck mining around HQ and get in the way of HQ spawning more beavers
+2.) Swarming doesn't really work because they all get stuck -- Lucy is working on pathing
+3.) Mining creates a dead region where lots of robots (like miners) get stuck and just move around without doing anything -- maybe we can make the robots prefer to stay away from each other (in a way that they don't get stuck)... maybe we can also have robots tell other robots when they find somewhere new with lots of ore so the tendency is to push the frontier while mining... maybe until they get too close to the enemy
+4.) How do we kill towers? (a lot of games probably end on # of towers) TANKS??? Justine will try to implement tanks
+5.) Maybe we want soldiers on the outside, miners in the middle, and beavers on the inside (near headquarters)

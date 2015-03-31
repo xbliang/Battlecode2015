@@ -1,0 +1,21 @@
+package justineplayer1;
+
+public enum State {
+	ATTACKING,
+	BUILDING,
+	MINING,
+	MOVING_AWAY,
+	MOVING_TOWARD,
+	RETREATING,
+	SPAWNING,
+	TOO_FAR,
+	
+	// Drone states
+	STRAIGHT_TO_ENEMY_HQ,
+	DIAGONAL,
+	DIAGONAL_BACK,
+	TURNING1,
+	TURNING2,
+	TURNING3,
+	TURNING4;
+}
